@@ -4,13 +4,11 @@ MSc. Artificial Intelligence • Machine Learning Engineer
 
 (+52) 899-230-7372 · adaniel.balderas@gmail.com · [linkedin.com/in/adrian-balderas](https://linkedin.com/in/adrian-balderas)
 
----
 
 ## Summary
 
 Experienced engineer with a background spanning Controls, Data Engineering, and Machine Learning, currently focused on computer vision systems and edge AI deployment in manufacturing environments. Proven ability to deliver end-to-end data solutions on Databricks, drive digital transformation initiatives, and collaborate with global teams. Former Controls Engineer with hands-on experience in MES, HMI/SCADA, and real-time data systems. Strong educational foundation in Artificial Intelligence & Mechatronics Engineering, with practical expertise in Python, Spark, SQL, and CI/CD workflows.
 
----
 
 ## Skills
 
@@ -20,7 +18,6 @@ Experienced engineer with a background spanning Controls, Data Engineering, and 
 
 **Courses:** Python Programming Course · Diploma in Management and Soft Skills
 
----
 
 ## Work Experience
 
@@ -47,7 +44,6 @@ Support of the internal Manufacturing Execution System (CoMET), real-time data m
 - Acted as digital transformation champion, guiding coworkers to make the most of available digital tools.
 - Developed several Power Apps and Power Automates to digitalize data and visualize it in Power BI in real time.
 
----
 
 ### Ametek Lamb – ISC Division
 
@@ -59,7 +55,6 @@ Analysis and repair of line defects in instrumentation control products; electro
 - Electrical analysis and repairs to more than 10 product families.
 - Auxiliary support to the maintenance area.
 
----
 
 ### IQor / Microsoft
 
@@ -71,7 +66,6 @@ Logistic process management at a Microsoft product Service Center; issue trackin
 - Created a website of answer templates to minimize service-center response times.
 - Leadership and coordination of the work area.
 
----
 
 ### Jabil / iQor
 
@@ -79,7 +73,6 @@ Logistic process management at a Microsoft product Service Center; issue trackin
 
 Electronic diagnostics of TV-receiver motherboards; oscilloscope and multimeter management.
 
----
 
 ## Education
 

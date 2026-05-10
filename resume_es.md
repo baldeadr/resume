@@ -4,13 +4,11 @@ MSc. Inteligencia Artificial • Ingeniero de Machine Learning
 
 (+52) 899-230-7372 · adaniel.balderas@gmail.com · [linkedin.com/in/adrian-balderas](https://linkedin.com/in/adrian-balderas)
 
----
 
 ## Resumen
 
 Ingeniero con experiencia en Controles, Ingeniería de Datos e Inteligencia Artificial, actualmente enfocado en sistemas de visión artificial y despliegue de IA en dispositivos de borde en entornos de manufactura. Capacidad comprobada para entregar soluciones de datos end-to-end en Databricks, impulsar iniciativas de transformación digital y colaborar con equipos globales. Ex ingeniero de controles con experiencia práctica en MES, HMI/SCADA y sistemas de datos en tiempo real. Sólida formación académica en Inteligencia Artificial e Ingeniería Mecatrónica, con experiencia en Python, Spark, SQL y flujos de trabajo CI/CD.
 
----
 
 ## Habilidades
 
@@ -20,7 +18,6 @@ Ingeniero con experiencia en Controles, Ingeniería de Datos e Inteligencia Arti
 
 **Cursos:** Curso de Programación en Python · Diplomado en Gestión y Habilidades Blandas
 
----
 
 ## Experiencia Laboral
 
@@ -47,7 +44,6 @@ Soporte al Sistema de Ejecución de Manufactura interno (CoMET), sistema de gest
 - Fungí como campeón de transformación digital, guiando a mis compañeros a aprovechar las herramientas digitales disponibles.
 - Desarrollé varios Power Apps y Power Automates para digitalizar datos y visualizarlos en Power BI en tiempo real.
 
----
 
 ### Ametek Lamb – División ISC
 
@@ -59,7 +55,6 @@ Análisis y reparación de defectos de línea en productos de control de instrum
 - Análisis eléctrico y reparaciones a más de 10 familias de productos.
 - Soporte auxiliar al área de mantenimiento.
 
----
 
 ### IQor / Microsoft
 
@@ -71,7 +66,6 @@ Proceso logístico del flujo de Servicio al Cliente en un Centro de Servicio de 
 - Creé un sitio web de plantillas de respuesta para minimizar tiempos de atención en el centro de servicio.
 - Liderazgo y coordinación del área de trabajo.
 
----
 
 ### Jabil / iQor
 
@@ -79,7 +73,6 @@ Proceso logístico del flujo de Servicio al Cliente en un Centro de Servicio de 
 
 Diagnóstico electrónico de tarjetas madre de receptores de televisión; manejo de osciloscopio y multímetro.
 
----
 
 ## Educación
 
